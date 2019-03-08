@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/save"
+        android:title="Save Reminder" />
+    <item
+        android:id="@+id/show"
+        android:title="Show Reminders" />
+    <item
+        android:id="@+id/export"
+        android:title="Export Reminders" />
+    <item
+        android:id="@+id/import_remind"
+        android:title="Import Reminders" />
+    <item
+        android:id="@+id/settings"
+        android:title="Settings" />
+    <item
+        android:id="@+id/upgrade"
+        android:title="Upgrade to Pro" />
+
+</menu>
